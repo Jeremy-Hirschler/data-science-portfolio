@@ -1,0 +1,1 @@
+This project applies Natural Language Processing techniques to classify sentiment from text data. The notebook demonstrates preprocessing steps, tokenization, feature extraction, and model evaluation.
