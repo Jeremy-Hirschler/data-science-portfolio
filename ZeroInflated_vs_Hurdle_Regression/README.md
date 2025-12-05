@@ -1,0 +1,1 @@
+A statistical modeling project comparing Zero-Inflated Poisson (ZIP) and Hurdle models on synthetic healthcare-style count data. The analysis focuses on dealing with excessive zeros and properly modeling zero-generating processes.
