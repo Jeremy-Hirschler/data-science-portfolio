@@ -1,0 +1,1 @@
+A supervised learning project using the Titanic dataset to model passenger survival probability. The analysis includes data preprocessing, exploratory analysis, feature engineering, and hyperparameter-tuned machine learning models.
