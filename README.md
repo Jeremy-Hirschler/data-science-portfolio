@@ -4,7 +4,7 @@ A collection of projects completed during my MS in Data Science problem at JHU. 
 
 ## Titanic Survival Predictions with Machine Learning
 ## Overview
-Using a csv file for the titanic survival dataset [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset), I was trying to predict which passengers would have survived the disaster based on different predictor variables such as class, sex, and age.
+Using a csv file for the titanic survival dataset ([Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)), I was trying to predict which passengers would have survived the disaster based on different predictor variables such as class, sex, and age.
 
 ## Tools and Technologies
 
